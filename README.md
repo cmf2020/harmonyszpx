@@ -22,6 +22,7 @@ Harmony师资培训
 1.  xxxx
 2.  xxxx
 3.  xxxx
+creating a new branch is quick.
 
 #### 参与贡献
 
